@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/resin-io-playground/node-sense-hat.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/freeCodeCamp/boilerplate-project-timestamp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
