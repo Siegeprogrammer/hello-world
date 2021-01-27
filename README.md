@@ -1,4 +1,6 @@
 # hello-world
+This is me testing github from VSCode
+
 testing github
 
 still esting github 3 days later
